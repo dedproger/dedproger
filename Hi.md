@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dedproger
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Sctructured world Cyberpunking
+- 🌱 I’m currently learning Collect info and Structure
 - 💞️ I’m looking to collaborate on: My Progects
 - 📫 How to reach me: TG + DS = @dedproger
 - 😄 Pronouns: Null = Anonimus
