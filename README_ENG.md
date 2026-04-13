@@ -41,7 +41,7 @@ All actions and words are aimed at improving the quality of life and protecting 
 ---
 
 <h2 id="introduction">🔍 Introduction to ANONNPO.</h2>
-This is a (NoNCommercial) non-profit organization dedicated to the complete anonymization of devices and personal life, the foundation of smart encryption protocols that are impossible to hack (which is theoretically possible),
+This is a (NoNCommercial) non-profit organization (which solves any problems of society) dedicated to the complete anonymization of devices and personal life, the foundation of smart encryption protocols that are impossible to hack (which is theoretically possible),
 Protecting users in any situation to secure them and reduce the growth of injustice (as a result of which living costs will become accessible to everyone), whether it be Legal issues or Cybersecurity (unfortunately, the Organization does not have the authority to punish criminals and will only provide full assistance (Including hacking, if authorized to do so)).
 The ability to control not the user themselves (surveillance and personalization of life), but only (and specifically) threats - this will allow users to show complete trust due to 101% transparency.
 All products aim for a full stack of criteria: Monolithic and Modular at the same time, Full Loyal (Flexible) (down to the details) Customization for each user, anonymity and security out of the box - that very paranoia, the control of one's device (hardware) - anyone who uses a ThinkPad prior to 2012 will understand me.
