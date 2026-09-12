@@ -3,8 +3,9 @@
 ![background](Git-background.png)
 
 <p align="center">
-  <a href="https://github.com/dedproger/profile.md/blob/main/LICENSE"><img src="https://img.shields.io/github/license/moeru-ai/airi.svg?style=flat&colorA=080f12&colorB=1fa669"></a>
-  <a href="https://t.me/progectAIDroid"><img src="https://img.shields.io/badge/Telegram-%235AA9E6?logo=telegram&labelColor=FFFFFF"></a>
+  <a href="https://github.com/dedproger/profile.md/blob/main/LICENSE"><img src="https://img.shields.io/github/license/moeru-ai/airi.svg?style=flat&colorA=080f12&colorB=1fa669"></a> </br>
+  [Русский сегмент]:<a href="https://t.me/AIDROIDprogect_ru"><img src="https://img.shields.io/badge/Telegram-%235AA9E6?logo=telegram&labelColor=FFFFFF"></a>
+  [English segment]:<a href="https://t.me/AIDROIDprogect_eng"><img src="https://img.shields.io/badge/Telegram-%235AA9E6?logo=telegram&labelColor=FFFFFF"></a>
 </p>
 
 <p align="center">
